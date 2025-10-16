@@ -25,5 +25,5 @@ It focuses on building responsive, modern UI components and integrating APIs (li
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Trivedinaiya/Fiction-Feista.git
+git clone https://github.com/Trivedinaiya/Fiction-Fiesta.git
 
