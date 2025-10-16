@@ -72,15 +72,16 @@ Created with ❤️ by Naiya
 Here’s a quick look at Fiction Fiesta 👇  
 
 ### 🏠 Home Page
-![Homepage](./img/Home.PNG)
+![Homepage](.src/img/Home.PNG)
 
 ### 📖 Book Details
-![Book Details](./img/book.PNG)
+![Book Details](.src/img/book.PNG)
 
 ### 🛒 About Page
-![About Page](./img/about.PNG)
+![About Page](.src/img/about.PNG)
 
 ### 📱 Contact Page 
-![Contact Page](./img/contact.PNG)
+![Contact Page](.src/img/contact.PNG)
+
 
 
