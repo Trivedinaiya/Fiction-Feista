@@ -1,0 +1,46 @@
+.cc{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 16px;
+    padding: 10px;
+    text-align: center;
+  }
+  .dd{
+    box-shadow: 0 0 5px;
+    height: 575px;
+    width: 275px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+    justify-content: space-between;
+    color: #0b0a17;
+   }
+   .dd:hover {
+    box-shadow: 0 0 14px;
+    height: 580px;
+    width: 280px;
+}
+   p{
+    margin-top: 10px;
+    text-align: justify;
+    font-family: cursive;
+   }
+   h3{
+    font-family: cursive;
+   }
+   button{
+     font-family: cursive;
+     color: #0b0a17;
+     background-color: #ffffff;
+     padding: 10px;
+     margin: 10px;
+     font-size: medium;
+   }
+   .im img{
+    height: 500px;
+    width: 100%;
+  }
+
+  
